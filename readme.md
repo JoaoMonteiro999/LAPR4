@@ -6,7 +6,7 @@ Application to manage job openings, for customers, and applications made by cand
 
 ## 2. Planning and Technical Documentation
 
-[Planning and Technical Documentation](docs/readme.md)
+[Planning and Technical Documentation](sem4pi-23-24-2dl1/docs/readme.md)
 
 ## 3. How to Build
 
